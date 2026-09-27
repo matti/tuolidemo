@@ -1,0 +1,453 @@
+{
+  "startedAt": "2026-09-27T04:07:08.794Z",
+  "url": "http://localhost:4173",
+  "errors": [],
+  "warnings": [
+    "[.WebGL-0x240018ba00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels",
+    "UniformsUtils: Textures of render targets cannot be cloned via cloneUniforms() or mergeUniforms().",
+    "[.WebGL-0x240018ba00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels (this message will no longer repeat)"
+  ],
+  "samples": [
+    {
+      "time": 2.515699999988079,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.0020675671030961256,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 4.967199999988079,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.03671834541459952,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 6.975799999952316,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.01977287494272506,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 8.982799999952316,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.04924742723864088,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 10.988699999988079,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.03519870323503201,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 13.358799999952316,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.02717326237298246,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 15.376099999964238,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.03448258526197928,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 17.383099999964237,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.04749883034562964,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 19.411899999976157,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.02718852261959757,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 21.8425,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.04380248126169166,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 23.861399999976157,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.064335066359768,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 25.875599999964237,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.040890706183706375,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 27.906899999976158,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.025567684363662007,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 30.3145,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.20705160828395375,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 32.32419999998808,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.03848306507734556,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 34.34269999998808,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.05021604762701709,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 36.367299999952316,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.043526794707793144,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 38.79,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.08525691510877367,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 40.819399999976156,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.039575906779395466,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 42.83329999995232,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.053791818407380884,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 44.853,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.08387844500685339,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 47.29079999995231,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.1445467841259677,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 49.292799999952315,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.1889315072447888,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 51.30259999996424,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.006974754055012538,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 53.31209999996424,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.08596411740199629,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 55.67069999998808,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.02670336809830343,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 57.69909999996424,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.025099338947209015,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 59.72039999997616,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.1241844084397508,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 61.74289999997616,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.2632884717771393,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 64.1325,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.024723016693080163,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 66.1515,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.028829850609561922,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 68.1675,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.04477723296692616,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 70.18319999998808,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.023512099963207102,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 72.54879999995232,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.039327401580965995,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 74.55809999996424,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.25151964922626663,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 76.56859999996423,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.18860985928919521,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 78.593,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.018737440087123178,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 81.00029999995232,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.03281101474884223,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 82.99,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.03669944613012646,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 85.03829999995232,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.052974236060263864,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 87.07979999995231,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.06501035536107584,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 89.655,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.043254328199330415,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 91.69369999998808,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.046112394338659705,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 93.70789999997616,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.028980523684693074,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 95.76019999998807,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.01839806884019084,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 98.34059999996424,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.05467745920729857,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 100.37019999998807,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.05791502074054,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 102.41629999995232,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.04083071830916988,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 104.46209999996424,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.05216566208107707,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 107.1305,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.04834650995515318,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 109.19209999996424,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.04099231169083198,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 111.25309999996423,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.032830592253918364,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 113.26159999996423,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.024505996630486963,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 116.00459999996424,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.04071129982972007,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 118.00959999996424,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.24783569478753295,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 120.02739999997615,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.2247329860433151,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 122.03709999996424,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.03612702810436508,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 124.38059999996423,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.0563210462224995,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 126.39579999995232,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.062080841385903265,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 128.41379999995232,
+      "playing": true,
+      "audioState": "running",
+      "rms": 0.058067467989954206,
+      "canvasVisible": "block"
+    },
+    {
+      "time": 0,
+      "playing": false,
+      "rms": 0.00009816001317614557
+    }
+  ],
+  "initial": {
+    "duration": 130.40326530612245,
+    "audioState": "running",
+    "playing": true,
+    "loop": false,
+    "volume": 1,
+    "fullscreen": true,
+    "rate": 1
+  },
+  "finished": true,
+  "wallSeconds": 129.226,
+  "frames": {
+    "count": 8717,
+    "medianMs": 9.300000011920929,
+    "p95Ms": 48.39999997615814
+  }
+}

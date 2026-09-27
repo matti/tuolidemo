@@ -1,0 +1,39 @@
+{
+  "source": "public/data/music.mp3",
+  "output": "verification/browser-output.wav",
+  "sampleRateCompared": 8000,
+  "capturedSeconds": 145.26175,
+  "sourceOffsetInCaptureSeconds": 1.637,
+  "correlation": 0.9997318983078003,
+  "sourceDurationSeconds": 130.40325,
+  "segments": [
+    {
+      "sourceTimeSeconds": 0,
+      "correlation": 0.9998602867126465
+    },
+    {
+      "sourceTimeSeconds": 10,
+      "correlation": 0.9996572136878967
+    },
+    {
+      "sourceTimeSeconds": 30,
+      "correlation": 0.9997537732124329
+    },
+    {
+      "sourceTimeSeconds": 60,
+      "correlation": 0.9997689127922058
+    },
+    {
+      "sourceTimeSeconds": 90,
+      "correlation": 0.9996251463890076
+    },
+    {
+      "sourceTimeSeconds": 120,
+      "correlation": 0.9996185898780823
+    },
+    {
+      "sourceTimeSeconds": 128,
+      "correlation": 0.9992624521255493
+    }
+  ]
+}

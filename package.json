@@ -1,0 +1,20 @@
+{
+  "name": "seisomapaikka",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --mode production",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "@tonejs/midi": "2.0.28",
+    "stats.js": "0.17.0",
+    "three": "0.179.1",
+    "tweakpane": "4.0.5"
+  },
+  "devDependencies": {
+    "vite": "7.3.6"
+  }
+}

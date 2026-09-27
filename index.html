@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>SEISOMAPAIKKA — Jumalauta</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <canvas id="canvas" hidden></canvas>
+    <div id="launch">
+      <div class="ticket">
+        <div class="small">JUMALAUTA / VUORONUMEROPALVELU</div>
+        <div class="number">001</div>
+        <h1>SEISOMAPAIKKA</h1>
+        <div class="rule"></div>
+        <p>Kaikille on tilaa.<br />Kaikille ei ole tuolia.</p>
+        <button id="start">OTA NUMERO <span>↗</span></button>
+        <div class="small foot">TAKE A NUMBER · SOUND ON · 2:10</div>
+      </div>
+    </div>
+    <div id="alert-banner" hidden><span id="alert-message"></span></div>
+    <label id="fullscreenLabel" style="display: none !important"
+      ><input type="checkbox" id="fullscreen"
+    /></label>
+    <div id="panel"><input id="timeline-slider" type="range" hidden /></div>
+    <script type="module" src="/bootstrap.js"></script>
+  </body>
+</html>

@@ -1,0 +1,87 @@
+{
+  "engine": {
+    "url": "https://github.com/jumalauta/jml-engine-webgl",
+    "commit": "e58a1f6fc16e75003b2509a5471db27645191b41"
+  },
+  "examples": {
+    "url": "https://github.com/jumalauta/jml-engine-demos",
+    "commit": "e3290b9a71b7bec6f813569843c5b49583180741",
+    "submodules": [
+      {
+        "path": "p2v3/demo-ajna-monumentalne-zabytki-mmdxxv",
+        "url": "https://github.com/mrautio/demo-ajna-monumentalne-zabytki-mmdxxv",
+        "commit": "0729a92a3fde3bd335e8a9783f3854352c333c2b"
+      },
+      {
+        "path": "p2v3/demo-jml-armento",
+        "url": "https://github.com/jumalauta/demo-jml-armento",
+        "commit": "6c4e15cba2ec31075ee81d124051ca8e6cbac86a"
+      },
+      {
+        "path": "p2v3/demo-jml-auto2000",
+        "url": "https://github.com/jumalauta/demo-jml-auto2000",
+        "commit": "2ae56af8cbaabb8d513c8ff1a6a502df130508d8"
+      },
+      {
+        "path": "p2v3/demo-jml-catarchy",
+        "url": "https://github.com/jumalauta/demo-jml-catarchy",
+        "commit": "6657cf85b4f56db07e41489e73eb2e2d95321ddd"
+      },
+      {
+        "path": "p2v3/demo-jml-fallofman",
+        "url": "https://github.com/jumalauta/demo-jml-fallofman",
+        "commit": "8e3aa777299a31538344945ecfd3eb14ee106f0b"
+      },
+      {
+        "path": "p2v3/demo-jml-fight21xx",
+        "url": "https://github.com/jumalauta/demo-jml-fight21xx",
+        "commit": "acf8fa0830fc49ff2351c678133e4131794bb1f2"
+      },
+      {
+        "path": "p2v3/demo-jml-graffathon25",
+        "url": "https://github.com/jumalauta/demo-jml-graffathon25",
+        "commit": "7297b074a00c0fbb25fe1c5b617cf376001a68b5"
+      },
+      {
+        "path": "p2v3/demo-jml-hauho",
+        "url": "https://github.com/jumalauta/demo-jml-hauho",
+        "commit": "e9b2104b44c70a83955221b26aa4862152a6fa52"
+      },
+      {
+        "path": "p2v3/demo-jml-helstosyn",
+        "url": "https://github.com/jumalauta/demo-jml-helstosyn",
+        "commit": "b9c6e6ba32c0dad49b2f397c6893e0d4997c7cef"
+      },
+      {
+        "path": "p2v3/demo-jml-juha001",
+        "url": "https://github.com/jumalauta/demo-jml-juha001",
+        "commit": "0101852a88b245de4f89edc7574f0dd34133c0b4"
+      },
+      {
+        "path": "p2v3/demo-jml-lastfarjan",
+        "url": "https://github.com/jumalauta/demo-jml-lastfarjan",
+        "commit": "35a3acce2acaf128f3084b2b6be9dd7daeee1861"
+      },
+      {
+        "path": "p2v3/demo-jml-nmd",
+        "url": "https://github.com/jumalauta/demo-jml-nmd",
+        "commit": "0138ff6f35fa5775e509be22abfa47ce15dfb162"
+      },
+      {
+        "path": "p2v3/demo-jml-ponr",
+        "url": "https://github.com/jumalauta/demo-jml-ponr",
+        "commit": "29dec5d13a5388462b674ec289846dbf9613ec9d"
+      },
+      {
+        "path": "p2v3/demo-jml-saltatio",
+        "url": "https://github.com/jumalauta/demo-jml-saltatio",
+        "commit": "81668fea635f6af404e448f13bb02ddbd82f4f7f"
+      },
+      {
+        "path": "p2v3/demo-jml-sigma67",
+        "url": "https://github.com/jumalauta/demo-jml-sigma67",
+        "commit": "f569ef1ded143fbc8334fc7432167cd84b6fa2e7"
+      }
+    ]
+  }
+}

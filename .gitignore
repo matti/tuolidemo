@@ -1,0 +1,6 @@
+node_modules/
+engine/node_modules/
+tools/node_modules/
+dist/
+research/videos/
+verification/*.wav

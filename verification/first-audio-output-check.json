@@ -1,0 +1,39 @@
+{
+  "source": "music/rock-hybrid.mp3",
+  "output": "browser-output.wav",
+  "sampleRateCompared": 8000,
+  "capturedSeconds": 150.1055,
+  "sourceOffsetInCaptureSeconds": 5.472625,
+  "correlation": 0.9998350739479065,
+  "sourceDurationSeconds": 130.40325,
+  "segments": [
+    {
+      "sourceTimeSeconds": 0,
+      "correlation": 0.9999207258224487
+    },
+    {
+      "sourceTimeSeconds": 10,
+      "correlation": 0.9998062252998352
+    },
+    {
+      "sourceTimeSeconds": 30,
+      "correlation": 0.9998539686203003
+    },
+    {
+      "sourceTimeSeconds": 60,
+      "correlation": 0.9998680353164673
+    },
+    {
+      "sourceTimeSeconds": 90,
+      "correlation": 0.9997838139533997
+    },
+    {
+      "sourceTimeSeconds": 120,
+      "correlation": 0.9997751712799072
+    },
+    {
+      "sourceTimeSeconds": 128,
+      "correlation": 0.9995698928833008
+    }
+  ]
+}

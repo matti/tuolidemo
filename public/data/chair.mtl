@@ -1,0 +1,6 @@
+newmtl chair
+Ka 0.1 0.1 0.1
+Kd 1.0 1.0 1.0
+Ks 0.25 0.25 0.25
+Ns 80
+illum 2
